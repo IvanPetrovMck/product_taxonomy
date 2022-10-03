@@ -2,11 +2,14 @@
 
 [UNDER DEVELOPMENT] - this project is still on early stage of development
 
+#### Description
+
 Matches a product description to user defined taxonomy (or google taxonomy). 
 
 v0.1 (Current):
 - Use simple text match. User specify categories and queries in file. Algo use some weightening to searh for the best category.
 
+#### Motivation
 
 Why I was interested in this problem:
 - Many pretrained Neural Network model require long text in product description field. In my case product was described in very short sentences, more like information that you see in shop receipts.
@@ -16,7 +19,13 @@ Why I was interested in this problem:
 - Most taxonomy matchers which use text search are not well performance optimized. I am using caching and vector computations whenever is possible.
 - Idea was to give user 'yaml' like config which would have all queries required to split products categories. Categories used in google_taxonomy were very detailed for me.
 
+#### Usage
 
+
+See file for example `main_run.ipynb`
+
+
+#### References
 
 This project is inspired by this repositories:
 https://github.com/BernhardWenzel/google-taxonomy-matcher
