@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# dataset
+*.parquet
+!products_descr_sample.parquet
+
+.gitignore.swp

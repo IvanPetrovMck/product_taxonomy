@@ -1,0 +1,250 @@
+## test comment
+## '#' - symbol can be used for comments
+## '->' - after last in the row list queries to search for, separated by ","
+
+
+GENDER -> WOMEN -> FEMALE, WOMEN, WOMAN, WMN, WMNS, stadium w
+GENDER -> MEN -> MALE, MEN, MAN
+GENDER -> KIDS -> GIRLS, BOYS, GIRL, BOY, YOUTH, junior
+GENDER -> BABY -> BABY, Preschool, infant, babies
+
+
+GIFT CARDS -> GIFT CARD, GIFT voucher
+
+
+Clothes -> kingsley heath, sandro, kooples
+Clothes -> non categorized -> billabong l, billabong s, billabong m, billabong xl
+Clothes -> jackets & coats -> coat, jackets, jacket, short jacket, woven bomber, bomber, OUTERWEAR
+Clothes -> jackets & coats -> funnel, funnel wadded, quilted funnel, quilted funnel neck
+Clothes -> jackets & coats -> quilted fullzip
+Clothes -> blazers & waistcoat -> blazers, blazer, waistcoat
+Clothes -> suits -> suits, suit, suit jacket, suit trousers
+Clothes -> shirts -> shirts, shirt, squinter
+Clothes -> t-shirts -> tshirts, tshirt, tees, tee, T-SHIRT
+Clothes -> polo -> polo, polo-shirt, polo beach, collar polo, sleeved polo, colour polo, oxford polo
+Clothes -> jumpers -> jumper, jmpr, woven jumper
+Clothes -> denim -> denim
+Clothes -> short -> short, shorts, chino short, long short, Billabong Larry Layback
+clothes -> jeans -> tailored jean, tappered jean, jeans, skinny jean
+Clothes -> trousers -> trouser, trousers,joggings, jogger, jogger pants
+Clothes -> trousers -> pant, pants, TRAINERS, woven pant, jers pant, jersey pant
+Clothes -> jampers & sweaters -> sweat, sweats, sweater, knitwear, hoodie
+Clothes -> jampers & sweaters -> cardigan, cardi, PULLOVER, jamper
+Clothes -> jampers & sweaters -> long sleeve, lng slv, TURTLENECK
+Clothes -> jampers & sweaters -> sweatshirts, sweatshirt, hoody
+Clothes -> apparel
+
+
+Clothes -> kids -> jampers & sweaters -> bebe pullover 
+
+
+Clothes -> men -> blazers & waistcoat -> DOUBLE BREASTED
+Clothes -> men -> trousers -> cor-chino, chino, chino pants
+
+
+Clothes -> women -> jackets & coats -> dress coat
+Clothes -> women -> dress -> evening dress -> evening dress
+Clothes -> women -> dress -> tulle dress -> tulle, tulle large, tull gown
+Clothes -> women -> dress -> buckle ## one shoulder long dress 
+Clothes -> women -> dress -> hi low, hi-low, high low, hi low jacquard, hi-low jacquard, high low jacquard ## high-low dress
+Clothes -> women -> dress -> long one shoulder, lotta love, bandage dress
+Clothes -> women -> dress -> bodycon, long sleeve dress
+Clothes -> women -> dress -> robe, robe manches 
+Clothes -> women -> dress -> dress, denim dress, long dress, skater dress, midi dress, short dress, knit dress, city dress
+Clothes -> women -> dress -> drs, long drs, skater, drs, midi drs
+Clothes -> women -> dress -> BLOUSANTE
+Clothes -> women -> dress -> min dress, maxi dress, knee-length, midi dress
+Clothes -> women -> SKIRTS & SHORT -> SKIRT, skirts, SHORTS MINI, jupon, combi short, jupe
+Clothes -> women -> pants -> culottes, high waisted trouser
+Clothes -> women -> coat -> padded coat
+Clothes -> women -> top -> bodysuits -> bodysuit, bodies
+Clothes -> women -> top -> woven top, water top, strap top, wrap top, long top, short top, long sleeve top
+Clothes -> women -> top -> blouse, BLOUSES, SLEEVELESS TOP, TANK TOPS, crop top, sleeve top, neck top, lace top
+Clothes -> women -> top -> ballroomh19
+Clothes -> women -> top -> tie-front top, tie top, knit top, knitted top, jersey top, lng slv top, sleeveless top
+Clothes -> women -> top -> shrt slv top, velvet top, shoulder top, top small, bustier top
+Clothes -> women -> jumpsuit -> jumpsuit
+Clothes -> women -> jampers & sweaters -> tunic, funnel neck, cocoon sweat, pull bijoux
+
+
+
+## SWIMWEAR
+Clothes -> swimwear -> swimwear, speedo
+Clothes -> swimwear -> women -> RASHGUARD, swimwear bottom
+Clothes -> swimwear -> women -> sweet roots isla, bikini, tankini, tankini boyleg, drumbeats lowrider
+Clothes -> swimwear -> women -> speedo bodysuit, speedo bodysui, speedo kickback
+Clothes -> swimwear -> men -> JAMMER
+Clothes -> swimwear -> men -> BOARDSHORT
+Clothes -> swimwear -> men -> ADILETTE
+Clothes -> swimwear -> men -> allday layback, swim short, bermuda, watershort
+Clothes -> swimwear -> cap-speedo, speedo cap
+Clothes -> swimwear -> kids -> sea suit squad
+
+
+## UNDERWEAR
+Clothes -> underwear & nightwear -> underwear
+Clothes -> underwear & nightwear -> nightwear
+Clothes -> underwear & nightwear -> socks, sock
+Clothes -> underwear & nightwear -> Undershirts
+Clothes -> women -> underwear & nightwear -> bra, boyleg
+Clothes -> men -> underwear & nightwear -> boxer, trunk
+
+
+
+Clothes -> lingerie -> lingerie, tights, legging, waist legging
+Clothes -> lingerie -> corsets, corset
+
+
+Accessories -> bags -> bag, CROSSHATCH,  Matinee, cross body, tote, xbody
+Accessories -> bags -> FLAP, clutch, CARRYALL, SHOPPER, TOP ZIP, xbody, SLING, hobo
+Accessories -> bags -> SATCHEL, BUCKET BAG, LAPTOP BAG, BELT BAG, SADDLE BAG, CLUTCH
+Accessories -> LUGGAGE -> LUGGAGE
+Accessories -> bags -> backpacks -> backpack, LAPTOP BACKPACK
+
+Accessories -> Wallets & Handbags -> Pass Holders -> badge, pass holder
+Accessories -> Wallets & Handbags -> Card Cases -> card case
+Accessories -> Wallets & Handbags -> Handbags -> handbag, waistbag, WASHBAG
+Accessories -> Wallets & Handbags -> Wallets -> money clip, wallet
+Accessories -> Wallets & Handbags -> Wallets -> TRIFOLD, BILLFOLD, PASS CASE
+Accessories -> Wallets & Handbags -> Wallets -> COIN PURSE, CHEQUE Organizer
+Accessories -> Wallets & Handbags -> Wallets -> DOUBLE DATE, ZIPAROUND, WRISTLET
+Accessories -> Wallets & Handbags -> Wallets -> CHAIN WALLET, POUCH, PENCIL POUCH
+Accessories -> Wallets & Handbags -> Wallets -> LANYARD
+
+
+
+Accessories -> Wallets & Handbags -> ORGANISERS -> ORGANISER
+
+Accessories -> accessories
+Accessories -> caps -> caps, cap, baseball cap, cap star, badge cap, flatwall trucker, flat cap, wool cap
+Accessories -> caps -> truckin 3d
+Accessories -> hats -> hats, hat, TURBAN
+Accessories -> belts -> belts, belt, CEINTURE
+Accessories -> scarfs -> scarfs, scarf
+Accessories -> ties -> tie
+Accessories -> misc -> LEATHER BRACELET
+Accessories -> gloves -> glove
+Accessories -> for hair -> HEADBAND, HAIR CLIP
+
+Accessories -> non clothes -> PHONE CASE, LANYARD, BUCKET, travel kit, COMPUTER SLEEVE, KEY RING
+Accessories -> non clothes -> PASSPORT HOLDER, TUMBLER, AIRPOD CASE, LAPTOP SLEEVE, THERMAL MUG
+Accessories -> non clothes -> IPHONE CASES, IPHONE CASE
+
+Accessories -> EYEWEAR -> EYEWEAR, SUNGLASSES
+BEAUTY -> perfume -> PERFUME
+
+Jewelry & watches -> jewelry -> jewelry, jwl 
+Jewelry & watches -> jewelry -> men -> cufflinks -> cufflink
+Jewelry & watches -> jewelry -> earring, ring, rings, EARRINGS, bracelets, NECKLACES
+Jewelry & watches -> watches -> watch, watches, watch-sport
+
+
+Shoes -> rockport, social foot
+Shoes -> boots -> boots, boot, ankle boots, HIGH BOOTS
+Shoes -> boots -> chukka -> chukka
+Shoes -> sneakers -> sneakers, sneaker, disruptor, sultan se
+Shoes -> shoes -> shoes, shoe
+Shoes -> men -> formal -> blucher, gold oak, wingtip, cap toe, cap toe black, charlesroad captoe
+Shoes -> men -> loafers -> loafers, loafer, mocassin
+Shoes -> men -> mocassin -> mocassin
+Shoes -> women -> sole lace up
+Shoes -> women -> satin court
+Shoes -> women -> heel, mule, wedge, flats, BALLERINA, bow heel, heel trim
+Shoes -> women -> pumps -> plain pump, pumps, pump, gail pump
+Shoes -> women -> perf sling, rockport sling
+Shoes -> slipon -> slipon, slip on, slip-on
+Shoes -> sandals -> sandals, sandal, sndl, bow sandal, bow flip flop
+Shoes -> trainer -> trainer, tennis trainer, sole trainer 
+
+
+sportswear -> sportswear, reebok, speedwick, adidas, alltimls, all time, alltime, gym
+sportswear -> stadium, rbk
+sportswear -> muscle, fitness, crossfit, puma, gel-cool, run, nike, quiksilver, stadium
+sportswear -> kids -> sneakers -> reebok almotio, stepfleex puma, rapidaflex, fortagym
+sportswear -> kids -> sneakers -> superstar 360, reebok royal prime, reebok royal cljog
+sportswear -> running shoes -> reebok road, reebok run, reebok runner, nike air
+sportswear -> running shoes -> aim mt, fortarun, NIKE AIR MAX, air max, rapidarun
+sportswear -> running shoes -> gel-quantum, flexweave, questar, alphabounce
+sportswear -> running shoes -> ultraboost, reebok energylux, energylux, reago pulse
+sportswear -> running shoes -> nike metcon, metcon, everchill black, everchill grey
+sportswear -> running shoes -> royal glide, nike flex, solar blaze, energy cloud
+sportswear -> running shoes -> reebok royal, reebok run
+sportswear -> running shoes -> umbro velocita, zig kinetica, hexaffect fire
+sportswear -> running shoes -> energy boos, energy boost atr, reebok print her, instapump fury, work n cushion
+sportswear -> running shoes -> stadium gel, asics gel, workout plus mu
+sportswear -> running shoes -> reebok 7, reebok 7.5, reebok 8, reebok 8.5, reebok 9, reebok 9.5, reebok 10, reebok 10.5, reebok 11
+sportswear -> running shoes -> nike 7, nike 7.5, nike 8, nike 8.5, nike 9, nike 9.5, nike 10, nike 10.5, nike 11
+sportswear -> running shoes -> adidas 7, adidas 7.5, adidas 8, adidas 8.5, adidas 9, adidas 9.5, adidas 10, adidas 10.5, adidas 11
+sportswear -> running shoes -> puma 7, puma 7.5, puma 8, puma 8.5, puma 9, puma 9, puma 9.5, puma 10, puma 10.5, puma 11
+sportswear -> running shoes -> rbk 7, rbk 7.5, rbk 8, rbk 8.5, rbk 9, rbk 9.5, rbk 10, rbk 10.5, rbk 11
+sportswear -> running shoes -> stadium 7, stadium 7.5, stadium 8, stadium 8.5, stadium 9, stadium 9.5, stadium 10, stadium 10.5, stadium 11
+sportswear -> running shoes -> ua 7, ua 7.5, ua 8, ua 8.5, ua 9, ua 9.5, ua 10, ua 10.5, ua 11
+sportswear -> lifestyle shoes -> superstar 80s, club c 85, air jordan, stadium mindblower, adidas superstar, nb lifesty
+sportswear -> lifestyle shoes -> Puma Future Rider Ride, stadium nb lifesty, stan smith
+sportswear -> shoes -> sandals -> nike slide, nike slides, shower slide, shower slides
+sportswear -> shoes -> sandals -> molokai sndl, flipflop, flip-flop, bermuda sndl, tides, tides-stealth
+
+
+
+sportswear -> kids -> clothes -> adidas yb, stadium yb
+sportswear -> kids -> clothes -> pants -> yb pant
+sportswear -> kids -> clothes -> shorts -> yb short
+sportswear -> kids -> clothes -> hoodie & jampers -> yb hood
+
+sportswear -> clothes -> non categorized -> stadium s, reebok s, adidas s, nike s
+sportswear -> clothes -> non categorized -> stadium m, reebok m, adidas m, nike m
+sportswear -> clothes -> non categorized -> stadium l, reebok l, adidas l, nike l
+sportswear -> clothes -> non categorized -> stadium xl, reebok xl, adidas xl, nike xl
+sportswear -> clothes -> outwear -> windbreaker, windrunner, sportswear jacket, quilted fullzip
+sportswear -> clothes -> shorts -> short, training short, long short, 2-in-1 short
+sportswear -> clothes -> polo -> polo
+sportswear -> clothes -> pants -> gym pant, tf long tgt, es pant, jogger, warm up jogger, warm jogger
+sportswear -> clothes -> sport suits -> adidas game time, nike hijab, training suit, adidas wts
+sportswear -> clothes -> tees -> activchill, training tee, tank, tank-black, tank black, nk fc top, nk top, t-shirt, tee
+sportswear -> clothes -> hoodie & jampers -> hoodie, training jacket, long sleeve, training jersey, hdy
+sportswear -> swiming -> biofuse fitness
+sportswear -> accessories -> knee support
+sportswear -> accessories -> gloves -> glove lifting, wrist glove, found gloves, boxing glove, box glove
+sportswear -> footbal -> predator 19.4 fxg
+sportswear -> backpack -> adidas bp, adidas trefoil, adidas backpack
+sportswear -> underwear -> socks -> crew sock, sock, squad crew, performance traction control
+sportswear -> underwear -> comp short
+
+sportswear -> women -> clothes -> shorts -> volley, sol searcher volley, sol volley
+sportswear -> women -> clothes -> reebok legging, tights, tight, armour mid, reebok tight, racerback
+sportswear -> women -> underwear -> bra -> drst ask spr, bra, bodypump bra, reebok bra, adidas bra, stadium bra, sup bra
+
+
+
+sport equipment -> stadium
+sport equipment -> all -> TREADMILL, gymball, footbalance
+
+Electroincs -> camera & photo -> photo, camera
+Electroincs -> car & vehicle
+Electroincs -> cell phones
+Electroincs -> computers -> computer, laptop, macbook
+Electroincs -> game consoles -> game console, gaming console
+Electroincs -> home audio ->sound
+Electroincs -> television & video -> television, telev, vidoe
+
+
+home -> other -> water bottle
+home -> STORAGE & ORGANIZATION -> tissue holder, hanger
+home -> utils -> sponge
+home -> ligths -> lantern, led
+home -> kitchenware -> knife
+home -> decor -> Home Fragrances > Wax Tarts, Incense, candle, fragrance oil, Air Fresheners
+
+garden -> garden pools -> pool, fountain, pond, waterfall
+
+
+tools -> garden -> Watering Equipment -> dripper hdwr, dripper, watering
+
+Furniture -> Furniture
+Furniture -> Outdoor -> Benches, outdoor sofa, outdoor chair, outdoor stool, outdoor table
+Furniture -> chairs -> chair, stool, Chaises
+Furniture -> Cabinets & Storage -> cabinets, racks, lockers, wardrobe, buffet, hutch
+Furniture -> Shelving -> Shelving, shelves, bookcases
+Furniture -> Tables -> table
+Furniture -> Sofas -> sofa
+Furniture -> Kitchen -> Kitchen
